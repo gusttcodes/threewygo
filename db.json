@@ -1,0 +1,145 @@
+{
+  "courses": [
+    {
+      "name": "Inteligência Artificial",
+      "img": "https://images.unsplash.com/photo-1563207153-f403bf289096?q=80&w=3542&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Entenda as razões para a estimação de cada um dos modelos de machine learning",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "lessons": [],
+      "expires": "2024-03-07",
+      "id": 5
+    },
+    {
+      "name": "Desenvolvimento Web",
+      "img": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Chegou a hora de aprender a criar aplicações web completas utilizando as tecnologias mais consolidadas do mercado.",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "lessons": [
+        {
+          "name": "Aula 1 - Entendendo HTML e CSS",
+          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores.",
+          "url": "https://www.youtube.com/embed/j7GG009J9uc",
+          "category_id": "1",
+          "id": "98addd75-3f7a-4637-b442-c533b86e39ef"
+        },
+        {
+          "name": "Aula 2 - Primeiros passos com Javascript",
+          "url": "https://www.youtube.com/embed/i9t8gdaBsTg",
+          "category_id": "2",
+          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
+          "id": "e07f78e1-e555-4a8e-9b93-5967e2cb1b42"
+        }
+      ],
+      "expires": "2024-06-30",
+      "id": 7
+    },
+    {
+      "name": "Nanotecnologia",
+      "img": "https://images.unsplash.com/photo-1531956656798-56686eeef3d4?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "description": "A nanotecnologia é uma ciência que se dedica ao estudo da manipulação da matéria numa escala atómica e molecular lidando com estruturas entre 1 e 100 nanômetros.",
+      "lessons": [],
+      "expires": "2024-06-30",
+      "id": 8
+    },
+    {
+      "expires": "2024-03-01",
+      "img": "https://images.unsplash.com/photo-1576086213369-97a306d36557?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Apresentamos os cursos, trilhas e vídeos do seu ambiente corporativo com a mesma praticidade que você encontra ao assistir seus programas favoritos em plataformas renomadas como Netflix e HBO Max.",
+      "name": "Quimica",
+      "category": {
+        "id": "1",
+        "name": "Gestão"
+      },
+      "lessons": [],
+      "id": 9
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1553729784-e91953dec042?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Storytelling é a arte de contar, desenvolver e adaptar histórias utilizando elementos específicos — personagem, ambiente, conflito e uma mensagem",
+      "expires": "2024-02-15",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "name": "Storytelling",
+      "lessons": [],
+      "id": 10
+    },
+    {
+      "name": "Administração",
+      "img": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A administração é a prática de planejar, organizar, dirigir e controlar recursos, sejam eles humanos, financeiros ou materiais. Envolve a tomada de decisões estratégicas.",
+      "expires": "2024-04-26",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "lessons": [],
+      "id": 11
+    },
+    {
+      "name": "Matemática",
+      "img": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?q=80&w=3274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Matemática é uma ciência que utiliza conceitos e técnicas para a formação de conhecimentos abstratos e concretos. Estuda números e operações",
+      "expires": "2024-03-14",
+      "category": {
+        "id": "1",
+        "name": "Gestão"
+      },
+      "lessons": [],
+      "id": 12
+    },
+    {
+      "name": "Marketing digital",
+      "img": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=3200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Marketing Digital é o conjunto de ações e estratégias voltadas para a promoção de uma marca no ambiente online, com o objetivo de promover produtos e serviços. Com isso, é possível usar diferentes canais digitais e métodos, que permitem a análise dos resultados em tempo real.",
+      "expires": "2024-03-07",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "lessons": [],
+      "id": 13
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1668395089958-743a664e0a14?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Se você é daqueles que está sempre querendo desmontar seu computador, conhecer os componentes deste e entender como tal equipamento funciona, Engenharia de Computação é a sua cara! Afinal, esta é a engenharia que constrói computadores, sistemas computacionais, entre outras tecnologias.",
+      "name": "Engenharia",
+      "expires": "2024-04-19",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "lessons": [],
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Gestão"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
